@@ -1,5 +1,8 @@
-h1 {
-    color: rgb(0, 110, 255);
+body {
+    background-color: aqua;
+}
+h3 {
+    color: rgb(0, 0, 0);
     border: 2px solid rgb(255, 0, 0);
     background-color: rgb(255, 0, 242);
     width: 200px;
@@ -8,6 +11,13 @@ h1 {
     text-align: center;
     border-radius: 5px;
 }
-body {
-    background-color: aqua;
+h1 {
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 0, 0);
+    background-color: rgb(255, 0, 242);
+    width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
 }
