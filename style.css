@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+    border: 2px solid blue;
+    background-color: gold;
+    width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+
+}
