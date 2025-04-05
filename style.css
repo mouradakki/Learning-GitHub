@@ -1,10 +1,13 @@
 h1 {
-    color: red;
-    border: 2px solid blue;
-    background-color: gold;
+    color: rgb(0, 110, 255);
+    border: 2px solid rgb(255, 0, 0);
+    background-color: rgb(255, 0, 242);
     width: 200px;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
     border-radius: 5px;
+}
+body {
+    background-color: aqua;
 }
